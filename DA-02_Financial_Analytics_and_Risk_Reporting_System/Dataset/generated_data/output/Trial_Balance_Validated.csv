@@ -1,0 +1,15 @@
+AccountID,TotalDebit,TotalCredit,AccountName,AccountType,FinancialStatement,NormalBalance,NetDebit,DebitBalance,CreditBalance,AccountTypeNorm,NormalBalanceNorm,SignedBalance
+1000,1908911225.61,1156483768.34,Cash,Asset,Balance Sheet,Debit,752427457.27,752427457.27,0.0,asset,debit,752427457.27
+1400,1131700000.0,491783422.14,Loans Receivable,Asset,Balance Sheet,Debit,639916577.86,639916577.86,0.0,asset,debit,639916577.86
+2100,0.0,1156700000.0,Bank Borrowings,Liability,Balance Sheet,Credit,-1156700000.0,0.0,1156700000.0,liability,credit,1156700000.0
+2300,0.0,255670529.75,Loan Loss Allowance,Contra Asset,Balance Sheet,Credit,-255670529.75,0.0,255670529.75,contra asset,credit,255670529.75
+3000,0.0,50000000.0,Share Capital,Equity,Balance Sheet,Credit,-50000000.0,0.0,50000000.0,equity,credit,50000000.0
+4000,0.0,201565027.49,Interest Income,Revenue,P&L,Credit,-201565027.49,0.0,201565027.49,revenue,credit,201565027.49
+4100,0.0,8862775.98,Fee and Service Income,Revenue,P&L,Credit,-8862775.98,0.0,8862775.98,revenue,credit,8862775.98
+5000,11552971.76,0.0,Salaries Expense,Expense,P&L,Debit,11552971.76,11552971.76,0.0,expense,debit,11552971.76
+5100,2932567.42,0.0,Rent Expense,Expense,P&L,Debit,2932567.42,2932567.42,0.0,expense,debit,2932567.42
+5200,2081754.55,0.0,Marketing Expense,Expense,P&L,Debit,2081754.55,2081754.55,0.0,expense,debit,2081754.55
+5300,2263242.59,0.0,Technology Expense,Expense,P&L,Debit,2263242.59,2263242.59,0.0,expense,debit,2263242.59
+5400,4278291.7,0.0,Interest Expense,Expense,P&L,Debit,4278291.7,4278291.7,0.0,expense,debit,4278291.7
+5500,255670529.75,0.0,Credit Loss Expense,Expense,P&L,Debit,255670529.75,255670529.75,0.0,expense,debit,255670529.75
+5600,1674940.32,0.0,General and Administrative Expense,Expense,P&L,Debit,1674940.32,1674940.32,0.0,expense,debit,1674940.32

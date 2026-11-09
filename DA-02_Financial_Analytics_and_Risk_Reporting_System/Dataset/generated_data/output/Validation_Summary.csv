@@ -1,0 +1,92 @@
+Check,Status
+Departments.csv exists and loads,PASS
+ChartOfAccounts.csv exists and loads,PASS
+Customers.csv exists and loads,PASS
+Loans.csv exists and loads,PASS
+LoanPayments.csv exists and loads,PASS
+GeneralLedger.csv exists and loads,PASS
+Budget.csv exists and loads,PASS
+Departments required columns,PASS
+ChartOfAccounts required columns,PASS
+Customers required columns,PASS
+Loans required columns,PASS
+LoanPayments required columns,PASS
+GeneralLedger required columns,PASS
+Budget required columns,PASS
+Departments missing cells,PASS
+Departments.DepartmentID unique and non-null,PASS
+ChartOfAccounts missing cells,PASS
+ChartOfAccounts.AccountID unique and non-null,PASS
+Customers missing cells,PASS
+Customers.CustomerID unique and non-null,PASS
+Loans missing cells,PASS
+Loans.LoanID unique and non-null,PASS
+LoanPayments missing cells,PASS
+LoanPayments.PaymentID unique and non-null,PASS
+GeneralLedger missing cells,PASS
+GeneralLedger.GLLineID unique and non-null,PASS
+Budget missing cells,PASS
+Budget.BudgetID unique and non-null,PASS
+Loans.CustomerID -> Customers,PASS
+LoanPayments.LoanID -> Loans,PASS
+GeneralLedger.AccountID -> ChartOfAccounts,PASS
+GeneralLedger.DepartmentID -> Departments,PASS
+Budget.AccountID -> ChartOfAccounts,PASS
+Budget.DepartmentID -> Departments,PASS
+Customer age between 18 and 100,PASS
+Annual income positive,PASS
+Customer-since dates valid,PASS
+Customer-since not after as-of date,PASS
+Loan amount positive,PASS
+Interest rate non-negative,PASS
+Loan term positive,PASS
+Credit score between 300 and 900,PASS
+DTI between 0 and 1,PASS
+Prior delinquencies non-negative,PASS
+DefaultFlag is binary,PASS
+Loan issue dates valid,PASS
+Loan issue dates not after as-of date,PASS
+MaturityDate is not before IssueDate,PASS
+Payment dates valid,PASS
+Payment amounts non-negative,PASS
+Principal paid non-negative,PASS
+Interest paid non-negative,PASS
+Outstanding balance non-negative,PASS
+Scheduled payment non-negative,PASS
+Installment numbers positive,PASS
+Payment status in allowed set,PASS
+Missed payment has zero paid amount,PASS
+Payment dates not after as-of date,PASS
+PrincipalPaid + InterestPaid = AmountPaid,PASS
+No duplicate installment per loan,PASS
+Every payment occurs after its loan issue date,PASS
+DefaultFlag agrees with missed-payment history,PASS
+LoanStatus='Defaulted' agrees with DefaultFlag,PASS
+ML leakage columns identified,REVIEW
+Debit values non-negative,PASS
+Credit values non-negative,PASS
+A GL line is not both debit and credit,PASS
+GL transaction dates valid,PASS
+GL transaction dates not after as-of date,PASS
+Every journal entry balances,PASS
+Total GL debits equal total GL credits,PASS
+Trial balance debit balances equal credit balances,PASS
+GL Loans Receivable agrees with loan/payment records,PASS
+Credit-loss provision agrees with first missed balances,PASS
+Balance sheet arithmetic after including current-period result,PASS
+Retained earnings / period-end closing entry,REVIEW
+Per-loan schedule balance equals principal less principal paid,PASS
+No duplicate budget month/account/department/version,PASS
+Budget amounts non-negative,PASS
+Budget months valid,PASS
+Budget months are first day of month,PASS
+Budget covers every month from Jan-2023 through Dec-2025,PASS
+Budget vs Actual report generated,PASS
+"Loan amounts within generated range ₹50,000–₹1,000,000",PASS
+Interest rates within generated range 6%–30%,PASS
+Credit scores within generated range 500–850,PASS
+DTI within generated range 0.05–0.70,PASS
+Customer ages within generated range 21–60,PASS
+"Annual incomes within generated range ₹240,000–₹2,400,000",PASS
+Unused chart-of-accounts entries reviewed,REVIEW
+Accounting methodology documentation,REVIEW

@@ -1,0 +1,325 @@
+BudgetID,BudgetMonth,AccountID,AccountName,DepartmentID,DepartmentName,BudgetAmount,BudgetVersion
+BUD0000001,2023-01-01,4000,Interest Income,2,Finance,858753.72,Approved
+BUD0000002,2023-01-01,4100,Fee and Service Income,1,Sales,228963.34,Approved
+BUD0000003,2023-01-01,5000,Salaries Expense,2,Finance,286884.45,Approved
+BUD0000004,2023-01-01,5100,Rent Expense,3,Operations,77401.19,Approved
+BUD0000005,2023-01-01,5200,Marketing Expense,5,Marketing,57882.07,Approved
+BUD0000006,2023-01-01,5300,Technology Expense,4,Technology,58815.77,Approved
+BUD0000007,2023-01-01,5400,Interest Expense,2,Finance,105820.01,Approved
+BUD0000008,2023-01-01,5500,Credit Loss Expense,2,Finance,78731.01,Approved
+BUD0000009,2023-01-01,5600,General and Administrative Expense,2,Finance,40605.62,Approved
+BUD0000010,2023-02-01,4000,Interest Income,2,Finance,947631.51,Approved
+BUD0000011,2023-02-01,4100,Fee and Service Income,1,Sales,227050.46,Approved
+BUD0000012,2023-02-01,5000,Salaries Expense,2,Finance,306238.19,Approved
+BUD0000013,2023-02-01,5100,Rent Expense,3,Operations,73952.81,Approved
+BUD0000014,2023-02-01,5200,Marketing Expense,5,Marketing,56115.41,Approved
+BUD0000015,2023-02-01,5300,Technology Expense,4,Technology,59897.47,Approved
+BUD0000016,2023-02-01,5400,Interest Expense,2,Finance,113270.51,Approved
+BUD0000017,2023-02-01,5500,Credit Loss Expense,2,Finance,84546.32,Approved
+BUD0000018,2023-02-01,5600,General and Administrative Expense,2,Finance,42685.87,Approved
+BUD0000019,2023-03-01,4000,Interest Income,2,Finance,912432.65,Approved
+BUD0000020,2023-03-01,4100,Fee and Service Income,1,Sales,215595.22,Approved
+BUD0000021,2023-03-01,5000,Salaries Expense,2,Finance,309805.76,Approved
+BUD0000022,2023-03-01,5100,Rent Expense,3,Operations,75676.79,Approved
+BUD0000023,2023-03-01,5200,Marketing Expense,5,Marketing,56831.93,Approved
+BUD0000024,2023-03-01,5300,Technology Expense,4,Technology,60364.97,Approved
+BUD0000025,2023-03-01,5400,Interest Expense,2,Finance,112059.84,Approved
+BUD0000026,2023-03-01,5500,Credit Loss Expense,2,Finance,75769.81,Approved
+BUD0000027,2023-03-01,5600,General and Administrative Expense,2,Finance,40318.42,Approved
+BUD0000028,2023-04-01,4000,Interest Income,2,Finance,919723.04,Approved
+BUD0000029,2023-04-01,4100,Fee and Service Income,1,Sales,212126.19,Approved
+BUD0000030,2023-04-01,5000,Salaries Expense,2,Finance,305342.56,Approved
+BUD0000031,2023-04-01,5100,Rent Expense,3,Operations,78098.53,Approved
+BUD0000032,2023-04-01,5200,Marketing Expense,5,Marketing,57947.93,Approved
+BUD0000033,2023-04-01,5300,Technology Expense,4,Technology,63078.72,Approved
+BUD0000034,2023-04-01,5400,Interest Expense,2,Finance,113537.5,Approved
+BUD0000035,2023-04-01,5500,Credit Loss Expense,2,Finance,82151.89,Approved
+BUD0000036,2023-04-01,5600,General and Administrative Expense,2,Finance,40733.16,Approved
+BUD0000037,2023-05-01,4000,Interest Income,2,Finance,914292.41,Approved
+BUD0000038,2023-05-01,4100,Fee and Service Income,1,Sales,221274.52,Approved
+BUD0000039,2023-05-01,5000,Salaries Expense,2,Finance,299111.03,Approved
+BUD0000040,2023-05-01,5100,Rent Expense,3,Operations,76912.04,Approved
+BUD0000041,2023-05-01,5200,Marketing Expense,5,Marketing,56057.02,Approved
+BUD0000042,2023-05-01,5300,Technology Expense,4,Technology,63220.46,Approved
+BUD0000043,2023-05-01,5400,Interest Expense,2,Finance,111448.19,Approved
+BUD0000044,2023-05-01,5500,Credit Loss Expense,2,Finance,77987.53,Approved
+BUD0000045,2023-05-01,5600,General and Administrative Expense,2,Finance,39691.02,Approved
+BUD0000046,2023-06-01,4000,Interest Income,2,Finance,933653.89,Approved
+BUD0000047,2023-06-01,4100,Fee and Service Income,1,Sales,230582.77,Approved
+BUD0000048,2023-06-01,5000,Salaries Expense,2,Finance,311400.18,Approved
+BUD0000049,2023-06-01,5100,Rent Expense,3,Operations,73402.14,Approved
+BUD0000050,2023-06-01,5200,Marketing Expense,5,Marketing,52747.03,Approved
+BUD0000051,2023-06-01,5300,Technology Expense,4,Technology,63554.39,Approved
+BUD0000052,2023-06-01,5400,Interest Expense,2,Finance,109132.43,Approved
+BUD0000053,2023-06-01,5500,Credit Loss Expense,2,Finance,79575.79,Approved
+BUD0000054,2023-06-01,5600,General and Administrative Expense,2,Finance,44452.44,Approved
+BUD0000055,2023-07-01,4000,Interest Income,2,Finance,931884.68,Approved
+BUD0000056,2023-07-01,4100,Fee and Service Income,1,Sales,222243.12,Approved
+BUD0000057,2023-07-01,5000,Salaries Expense,2,Finance,285692.68,Approved
+BUD0000058,2023-07-01,5100,Rent Expense,3,Operations,77787.33,Approved
+BUD0000059,2023-07-01,5200,Marketing Expense,5,Marketing,58010.99,Approved
+BUD0000060,2023-07-01,5300,Technology Expense,4,Technology,58293.39,Approved
+BUD0000061,2023-07-01,5400,Interest Expense,2,Finance,107543.51,Approved
+BUD0000062,2023-07-01,5500,Credit Loss Expense,2,Finance,75475.44,Approved
+BUD0000063,2023-07-01,5600,General and Administrative Expense,2,Finance,40285.39,Approved
+BUD0000064,2023-08-01,4000,Interest Income,2,Finance,866583.87,Approved
+BUD0000065,2023-08-01,4100,Fee and Service Income,1,Sales,207344.71,Approved
+BUD0000066,2023-08-01,5000,Salaries Expense,2,Finance,306478.83,Approved
+BUD0000067,2023-08-01,5100,Rent Expense,3,Operations,75495.77,Approved
+BUD0000068,2023-08-01,5200,Marketing Expense,5,Marketing,57343.45,Approved
+BUD0000069,2023-08-01,5300,Technology Expense,4,Technology,65597.67,Approved
+BUD0000070,2023-08-01,5400,Interest Expense,2,Finance,104174.04,Approved
+BUD0000071,2023-08-01,5500,Credit Loss Expense,2,Finance,75281.36,Approved
+BUD0000072,2023-08-01,5600,General and Administrative Expense,2,Finance,39670.24,Approved
+BUD0000073,2023-09-01,4000,Interest Income,2,Finance,909460.77,Approved
+BUD0000074,2023-09-01,4100,Fee and Service Income,1,Sales,229014.88,Approved
+BUD0000075,2023-09-01,5000,Salaries Expense,2,Finance,285937.68,Approved
+BUD0000076,2023-09-01,5100,Rent Expense,3,Operations,78553.44,Approved
+BUD0000077,2023-09-01,5200,Marketing Expense,5,Marketing,52033.62,Approved
+BUD0000078,2023-09-01,5300,Technology Expense,4,Technology,65349.8,Approved
+BUD0000079,2023-09-01,5400,Interest Expense,2,Finance,114205.84,Approved
+BUD0000080,2023-09-01,5500,Credit Loss Expense,2,Finance,83707.1,Approved
+BUD0000081,2023-09-01,5600,General and Administrative Expense,2,Finance,40046.28,Approved
+BUD0000082,2023-10-01,4000,Interest Income,2,Finance,949546.47,Approved
+BUD0000083,2023-10-01,4100,Fee and Service Income,1,Sales,206896.9,Approved
+BUD0000084,2023-10-01,5000,Salaries Expense,2,Finance,312676.81,Approved
+BUD0000085,2023-10-01,5100,Rent Expense,3,Operations,78410.5,Approved
+BUD0000086,2023-10-01,5200,Marketing Expense,5,Marketing,57783.12,Approved
+BUD0000087,2023-10-01,5300,Technology Expense,4,Technology,61859.08,Approved
+BUD0000088,2023-10-01,5400,Interest Expense,2,Finance,104787.09,Approved
+BUD0000089,2023-10-01,5500,Credit Loss Expense,2,Finance,76299.64,Approved
+BUD0000090,2023-10-01,5600,General and Administrative Expense,2,Finance,40943.03,Approved
+BUD0000091,2023-11-01,4000,Interest Income,2,Finance,896272.08,Approved
+BUD0000092,2023-11-01,4100,Fee and Service Income,1,Sales,222125.96,Approved
+BUD0000093,2023-11-01,5000,Salaries Expense,2,Finance,287780.0,Approved
+BUD0000094,2023-11-01,5100,Rent Expense,3,Operations,76755.08,Approved
+BUD0000095,2023-11-01,5200,Marketing Expense,5,Marketing,58142.57,Approved
+BUD0000096,2023-11-01,5300,Technology Expense,4,Technology,64222.96,Approved
+BUD0000097,2023-11-01,5400,Interest Expense,2,Finance,114920.83,Approved
+BUD0000098,2023-11-01,5500,Credit Loss Expense,2,Finance,83889.77,Approved
+BUD0000099,2023-11-01,5600,General and Administrative Expense,2,Finance,40367.97,Approved
+BUD0000100,2023-12-01,4000,Interest Income,2,Finance,876387.76,Approved
+BUD0000101,2023-12-01,4100,Fee and Service Income,1,Sales,210482.89,Approved
+BUD0000102,2023-12-01,5000,Salaries Expense,2,Finance,294782.92,Approved
+BUD0000103,2023-12-01,5100,Rent Expense,3,Operations,79646.45,Approved
+BUD0000104,2023-12-01,5200,Marketing Expense,5,Marketing,54119.43,Approved
+BUD0000105,2023-12-01,5300,Technology Expense,4,Technology,65097.19,Approved
+BUD0000106,2023-12-01,5400,Interest Expense,2,Finance,110133.82,Approved
+BUD0000107,2023-12-01,5500,Credit Loss Expense,2,Finance,75674.13,Approved
+BUD0000108,2023-12-01,5600,General and Administrative Expense,2,Finance,41890.34,Approved
+BUD0000109,2024-01-01,4000,Interest Income,2,Finance,954201.76,Approved
+BUD0000110,2024-01-01,4100,Fee and Service Income,1,Sales,225936.19,Approved
+BUD0000111,2024-01-01,5000,Salaries Expense,2,Finance,307538.16,Approved
+BUD0000112,2024-01-01,5100,Rent Expense,3,Operations,86548.3,Approved
+BUD0000113,2024-01-01,5200,Marketing Expense,5,Marketing,55497.57,Approved
+BUD0000114,2024-01-01,5300,Technology Expense,4,Technology,66739.32,Approved
+BUD0000115,2024-01-01,5400,Interest Expense,2,Finance,120487.84,Approved
+BUD0000116,2024-01-01,5500,Credit Loss Expense,2,Finance,82584.34,Approved
+BUD0000117,2024-01-01,5600,General and Administrative Expense,2,Finance,44957.1,Approved
+BUD0000118,2024-02-01,4000,Interest Income,2,Finance,995550.65,Approved
+BUD0000119,2024-02-01,4100,Fee and Service Income,1,Sales,236784.78,Approved
+BUD0000120,2024-02-01,5000,Salaries Expense,2,Finance,304672.62,Approved
+BUD0000121,2024-02-01,5100,Rent Expense,3,Operations,77601.59,Approved
+BUD0000122,2024-02-01,5200,Marketing Expense,5,Marketing,56882.62,Approved
+BUD0000123,2024-02-01,5300,Technology Expense,4,Technology,65335.18,Approved
+BUD0000124,2024-02-01,5400,Interest Expense,2,Finance,115251.64,Approved
+BUD0000125,2024-02-01,5500,Credit Loss Expense,2,Finance,82105.32,Approved
+BUD0000126,2024-02-01,5600,General and Administrative Expense,2,Finance,45636.74,Approved
+BUD0000127,2024-03-01,4000,Interest Income,2,Finance,934249.45,Approved
+BUD0000128,2024-03-01,4100,Fee and Service Income,1,Sales,222173.11,Approved
+BUD0000129,2024-03-01,5000,Salaries Expense,2,Finance,328007.52,Approved
+BUD0000130,2024-03-01,5100,Rent Expense,3,Operations,86790.25,Approved
+BUD0000131,2024-03-01,5200,Marketing Expense,5,Marketing,60684.17,Approved
+BUD0000132,2024-03-01,5300,Technology Expense,4,Technology,64255.24,Approved
+BUD0000133,2024-03-01,5400,Interest Expense,2,Finance,109375.01,Approved
+BUD0000134,2024-03-01,5500,Credit Loss Expense,2,Finance,83852.25,Approved
+BUD0000135,2024-03-01,5600,General and Administrative Expense,2,Finance,44624.08,Approved
+BUD0000136,2024-04-01,4000,Interest Income,2,Finance,946210.05,Approved
+BUD0000137,2024-04-01,4100,Fee and Service Income,1,Sales,221403.09,Approved
+BUD0000138,2024-04-01,5000,Salaries Expense,2,Finance,329989.7,Approved
+BUD0000139,2024-04-01,5100,Rent Expense,3,Operations,85216.94,Approved
+BUD0000140,2024-04-01,5200,Marketing Expense,5,Marketing,54444.07,Approved
+BUD0000141,2024-04-01,5300,Technology Expense,4,Technology,62026.13,Approved
+BUD0000142,2024-04-01,5400,Interest Expense,2,Finance,112615.84,Approved
+BUD0000143,2024-04-01,5500,Credit Loss Expense,2,Finance,86843.53,Approved
+BUD0000144,2024-04-01,5600,General and Administrative Expense,2,Finance,41972.27,Approved
+BUD0000145,2024-05-01,4000,Interest Income,2,Finance,892808.6,Approved
+BUD0000146,2024-05-01,4100,Fee and Service Income,1,Sales,219013.57,Approved
+BUD0000147,2024-05-01,5000,Salaries Expense,2,Finance,320324.3,Approved
+BUD0000148,2024-05-01,5100,Rent Expense,3,Operations,82917.2,Approved
+BUD0000149,2024-05-01,5200,Marketing Expense,5,Marketing,59325.45,Approved
+BUD0000150,2024-05-01,5300,Technology Expense,4,Technology,66954.82,Approved
+BUD0000151,2024-05-01,5400,Interest Expense,2,Finance,114933.93,Approved
+BUD0000152,2024-05-01,5500,Credit Loss Expense,2,Finance,79413.42,Approved
+BUD0000153,2024-05-01,5600,General and Administrative Expense,2,Finance,45259.59,Approved
+BUD0000154,2024-06-01,4000,Interest Income,2,Finance,889548.95,Approved
+BUD0000155,2024-06-01,4100,Fee and Service Income,1,Sales,224708.73,Approved
+BUD0000156,2024-06-01,5000,Salaries Expense,2,Finance,331965.01,Approved
+BUD0000157,2024-06-01,5100,Rent Expense,3,Operations,85885.79,Approved
+BUD0000158,2024-06-01,5200,Marketing Expense,5,Marketing,58553.88,Approved
+BUD0000159,2024-06-01,5300,Technology Expense,4,Technology,68425.44,Approved
+BUD0000160,2024-06-01,5400,Interest Expense,2,Finance,109003.92,Approved
+BUD0000161,2024-06-01,5500,Credit Loss Expense,2,Finance,86069.82,Approved
+BUD0000162,2024-06-01,5600,General and Administrative Expense,2,Finance,41524.55,Approved
+BUD0000163,2024-07-01,4000,Interest Income,2,Finance,918540.08,Approved
+BUD0000164,2024-07-01,4100,Fee and Service Income,1,Sales,221990.43,Approved
+BUD0000165,2024-07-01,5000,Salaries Expense,2,Finance,304437.95,Approved
+BUD0000166,2024-07-01,5100,Rent Expense,3,Operations,80425.15,Approved
+BUD0000167,2024-07-01,5200,Marketing Expense,5,Marketing,56249.49,Approved
+BUD0000168,2024-07-01,5300,Technology Expense,4,Technology,63975.32,Approved
+BUD0000169,2024-07-01,5400,Interest Expense,2,Finance,121839.5,Approved
+BUD0000170,2024-07-01,5500,Credit Loss Expense,2,Finance,86606.24,Approved
+BUD0000171,2024-07-01,5600,General and Administrative Expense,2,Finance,46613.28,Approved
+BUD0000172,2024-08-01,4000,Interest Income,2,Finance,902249.42,Approved
+BUD0000173,2024-08-01,4100,Fee and Service Income,1,Sales,223649.44,Approved
+BUD0000174,2024-08-01,5000,Salaries Expense,2,Finance,327120.81,Approved
+BUD0000175,2024-08-01,5100,Rent Expense,3,Operations,86357.63,Approved
+BUD0000176,2024-08-01,5200,Marketing Expense,5,Marketing,59032.86,Approved
+BUD0000177,2024-08-01,5300,Technology Expense,4,Technology,66185.34,Approved
+BUD0000178,2024-08-01,5400,Interest Expense,2,Finance,110127.29,Approved
+BUD0000179,2024-08-01,5500,Credit Loss Expense,2,Finance,79805.14,Approved
+BUD0000180,2024-08-01,5600,General and Administrative Expense,2,Finance,42932.32,Approved
+BUD0000181,2024-09-01,4000,Interest Income,2,Finance,971520.47,Approved
+BUD0000182,2024-09-01,4100,Fee and Service Income,1,Sales,223820.56,Approved
+BUD0000183,2024-09-01,5000,Salaries Expense,2,Finance,323895.68,Approved
+BUD0000184,2024-09-01,5100,Rent Expense,3,Operations,82639.58,Approved
+BUD0000185,2024-09-01,5200,Marketing Expense,5,Marketing,56542.9,Approved
+BUD0000186,2024-09-01,5300,Technology Expense,4,Technology,64821.2,Approved
+BUD0000187,2024-09-01,5400,Interest Expense,2,Finance,121181.29,Approved
+BUD0000188,2024-09-01,5500,Credit Loss Expense,2,Finance,86178.3,Approved
+BUD0000189,2024-09-01,5600,General and Administrative Expense,2,Finance,44516.51,Approved
+BUD0000190,2024-10-01,4000,Interest Income,2,Finance,900285.75,Approved
+BUD0000191,2024-10-01,4100,Fee and Service Income,1,Sales,226722.64,Approved
+BUD0000192,2024-10-01,5000,Salaries Expense,2,Finance,329948.27,Approved
+BUD0000193,2024-10-01,5100,Rent Expense,3,Operations,85085.02,Approved
+BUD0000194,2024-10-01,5200,Marketing Expense,5,Marketing,55321.04,Approved
+BUD0000195,2024-10-01,5300,Technology Expense,4,Technology,66787.46,Approved
+BUD0000196,2024-10-01,5400,Interest Expense,2,Finance,113932.42,Approved
+BUD0000197,2024-10-01,5500,Credit Loss Expense,2,Finance,82006.09,Approved
+BUD0000198,2024-10-01,5600,General and Administrative Expense,2,Finance,45873.22,Approved
+BUD0000199,2024-11-01,4000,Interest Income,2,Finance,947474.33,Approved
+BUD0000200,2024-11-01,4100,Fee and Service Income,1,Sales,219976.47,Approved
+BUD0000201,2024-11-01,5000,Salaries Expense,2,Finance,300916.25,Approved
+BUD0000202,2024-11-01,5100,Rent Expense,3,Operations,82443.24,Approved
+BUD0000203,2024-11-01,5200,Marketing Expense,5,Marketing,56973.05,Approved
+BUD0000204,2024-11-01,5300,Technology Expense,4,Technology,67510.13,Approved
+BUD0000205,2024-11-01,5400,Interest Expense,2,Finance,111325.09,Approved
+BUD0000206,2024-11-01,5500,Credit Loss Expense,2,Finance,82930.65,Approved
+BUD0000207,2024-11-01,5600,General and Administrative Expense,2,Finance,42831.94,Approved
+BUD0000208,2024-12-01,4000,Interest Income,2,Finance,960067.51,Approved
+BUD0000209,2024-12-01,4100,Fee and Service Income,1,Sales,235532.36,Approved
+BUD0000210,2024-12-01,5000,Salaries Expense,2,Finance,317844.17,Approved
+BUD0000211,2024-12-01,5100,Rent Expense,3,Operations,81537.75,Approved
+BUD0000212,2024-12-01,5200,Marketing Expense,5,Marketing,61022.64,Approved
+BUD0000213,2024-12-01,5300,Technology Expense,4,Technology,66077.47,Approved
+BUD0000214,2024-12-01,5400,Interest Expense,2,Finance,118305.43,Approved
+BUD0000215,2024-12-01,5500,Credit Loss Expense,2,Finance,84745.42,Approved
+BUD0000216,2024-12-01,5600,General and Administrative Expense,2,Finance,44443.43,Approved
+BUD0000217,2025-01-01,4000,Interest Income,2,Finance,948643.89,Approved
+BUD0000218,2025-01-01,4100,Fee and Service Income,1,Sales,237948.26,Approved
+BUD0000219,2025-01-01,5000,Salaries Expense,2,Finance,322300.39,Approved
+BUD0000220,2025-01-01,5100,Rent Expense,3,Operations,88119.25,Approved
+BUD0000221,2025-01-01,5200,Marketing Expense,5,Marketing,62210.58,Approved
+BUD0000222,2025-01-01,5300,Technology Expense,4,Technology,66849.95,Approved
+BUD0000223,2025-01-01,5400,Interest Expense,2,Finance,118384.04,Approved
+BUD0000224,2025-01-01,5500,Credit Loss Expense,2,Finance,90946.86,Approved
+BUD0000225,2025-01-01,5600,General and Administrative Expense,2,Finance,45567.22,Approved
+BUD0000226,2025-02-01,4000,Interest Income,2,Finance,1012099.66,Approved
+BUD0000227,2025-02-01,4100,Fee and Service Income,1,Sales,229999.86,Approved
+BUD0000228,2025-02-01,5000,Salaries Expense,2,Finance,317412.76,Approved
+BUD0000229,2025-02-01,5100,Rent Expense,3,Operations,80865.09,Approved
+BUD0000230,2025-02-01,5200,Marketing Expense,5,Marketing,63119.61,Approved
+BUD0000231,2025-02-01,5300,Technology Expense,4,Technology,71157.12,Approved
+BUD0000232,2025-02-01,5400,Interest Expense,2,Finance,119413.39,Approved
+BUD0000233,2025-02-01,5500,Credit Loss Expense,2,Finance,91428.74,Approved
+BUD0000234,2025-02-01,5600,General and Administrative Expense,2,Finance,48187.16,Approved
+BUD0000235,2025-03-01,4000,Interest Income,2,Finance,1034178.65,Approved
+BUD0000236,2025-03-01,4100,Fee and Service Income,1,Sales,231516.8,Approved
+BUD0000237,2025-03-01,5000,Salaries Expense,2,Finance,332125.78,Approved
+BUD0000238,2025-03-01,5100,Rent Expense,3,Operations,84992.89,Approved
+BUD0000239,2025-03-01,5200,Marketing Expense,5,Marketing,62961.83,Approved
+BUD0000240,2025-03-01,5300,Technology Expense,4,Technology,68676.49,Approved
+BUD0000241,2025-03-01,5400,Interest Expense,2,Finance,125045.56,Approved
+BUD0000242,2025-03-01,5500,Credit Loss Expense,2,Finance,85880.77,Approved
+BUD0000243,2025-03-01,5600,General and Administrative Expense,2,Finance,48225.53,Approved
+BUD0000244,2025-04-01,4000,Interest Income,2,Finance,980347.65,Approved
+BUD0000245,2025-04-01,4100,Fee and Service Income,1,Sales,228583.55,Approved
+BUD0000246,2025-04-01,5000,Salaries Expense,2,Finance,329536.2,Approved
+BUD0000247,2025-04-01,5100,Rent Expense,3,Operations,85726.56,Approved
+BUD0000248,2025-04-01,5200,Marketing Expense,5,Marketing,60563.19,Approved
+BUD0000249,2025-04-01,5300,Technology Expense,4,Technology,68886.29,Approved
+BUD0000250,2025-04-01,5400,Interest Expense,2,Finance,121392.86,Approved
+BUD0000251,2025-04-01,5500,Credit Loss Expense,2,Finance,86789.52,Approved
+BUD0000252,2025-04-01,5600,General and Administrative Expense,2,Finance,48221.07,Approved
+BUD0000253,2025-05-01,4000,Interest Income,2,Finance,992449.42,Approved
+BUD0000254,2025-05-01,4100,Fee and Service Income,1,Sales,241951.27,Approved
+BUD0000255,2025-05-01,5000,Salaries Expense,2,Finance,321742.4,Approved
+BUD0000256,2025-05-01,5100,Rent Expense,3,Operations,83036.33,Approved
+BUD0000257,2025-05-01,5200,Marketing Expense,5,Marketing,62876.1,Approved
+BUD0000258,2025-05-01,5300,Technology Expense,4,Technology,69171.95,Approved
+BUD0000259,2025-05-01,5400,Interest Expense,2,Finance,127344.08,Approved
+BUD0000260,2025-05-01,5500,Credit Loss Expense,2,Finance,90561.11,Approved
+BUD0000261,2025-05-01,5600,General and Administrative Expense,2,Finance,48414.74,Approved
+BUD0000262,2025-06-01,4000,Interest Income,2,Finance,992456.45,Approved
+BUD0000263,2025-06-01,4100,Fee and Service Income,1,Sales,237437.29,Approved
+BUD0000264,2025-06-01,5000,Salaries Expense,2,Finance,341217.72,Approved
+BUD0000265,2025-06-01,5100,Rent Expense,3,Operations,82251.3,Approved
+BUD0000266,2025-06-01,5200,Marketing Expense,5,Marketing,62375.49,Approved
+BUD0000267,2025-06-01,5300,Technology Expense,4,Technology,68659.09,Approved
+BUD0000268,2025-06-01,5400,Interest Expense,2,Finance,114588.86,Approved
+BUD0000269,2025-06-01,5500,Credit Loss Expense,2,Finance,88744.69,Approved
+BUD0000270,2025-06-01,5600,General and Administrative Expense,2,Finance,45636.83,Approved
+BUD0000271,2025-07-01,4000,Interest Income,2,Finance,949803.4,Approved
+BUD0000272,2025-07-01,4100,Fee and Service Income,1,Sales,232321.48,Approved
+BUD0000273,2025-07-01,5000,Salaries Expense,2,Finance,349754.85,Approved
+BUD0000274,2025-07-01,5100,Rent Expense,3,Operations,83965.01,Approved
+BUD0000275,2025-07-01,5200,Marketing Expense,5,Marketing,60913.27,Approved
+BUD0000276,2025-07-01,5300,Technology Expense,4,Technology,71254.45,Approved
+BUD0000277,2025-07-01,5400,Interest Expense,2,Finance,123961.0,Approved
+BUD0000278,2025-07-01,5500,Credit Loss Expense,2,Finance,91004.95,Approved
+BUD0000279,2025-07-01,5600,General and Administrative Expense,2,Finance,44652.31,Approved
+BUD0000280,2025-08-01,4000,Interest Income,2,Finance,1019310.51,Approved
+BUD0000281,2025-08-01,4100,Fee and Service Income,1,Sales,250791.71,Approved
+BUD0000282,2025-08-01,5000,Salaries Expense,2,Finance,312764.48,Approved
+BUD0000283,2025-08-01,5100,Rent Expense,3,Operations,88151.53,Approved
+BUD0000284,2025-08-01,5200,Marketing Expense,5,Marketing,57405.91,Approved
+BUD0000285,2025-08-01,5300,Technology Expense,4,Technology,67022.12,Approved
+BUD0000286,2025-08-01,5400,Interest Expense,2,Finance,115623.99,Approved
+BUD0000287,2025-08-01,5500,Credit Loss Expense,2,Finance,85916.1,Approved
+BUD0000288,2025-08-01,5600,General and Administrative Expense,2,Finance,46235.05,Approved
+BUD0000289,2025-09-01,4000,Interest Income,2,Finance,1009231.5,Approved
+BUD0000290,2025-09-01,4100,Fee and Service Income,1,Sales,255852.63,Approved
+BUD0000291,2025-09-01,5000,Salaries Expense,2,Finance,313207.39,Approved
+BUD0000292,2025-09-01,5100,Rent Expense,3,Operations,83405.79,Approved
+BUD0000293,2025-09-01,5200,Marketing Expense,5,Marketing,62459.92,Approved
+BUD0000294,2025-09-01,5300,Technology Expense,4,Technology,71855.6,Approved
+BUD0000295,2025-09-01,5400,Interest Expense,2,Finance,122545.63,Approved
+BUD0000296,2025-09-01,5500,Credit Loss Expense,2,Finance,84677.95,Approved
+BUD0000297,2025-09-01,5600,General and Administrative Expense,2,Finance,48536.84,Approved
+BUD0000298,2025-10-01,4000,Interest Income,2,Finance,979379.34,Approved
+BUD0000299,2025-10-01,4100,Fee and Service Income,1,Sales,229761.27,Approved
+BUD0000300,2025-10-01,5000,Salaries Expense,2,Finance,333471.78,Approved
+BUD0000301,2025-10-01,5100,Rent Expense,3,Operations,85260.68,Approved
+BUD0000302,2025-10-01,5200,Marketing Expense,5,Marketing,61862.19,Approved
+BUD0000303,2025-10-01,5300,Technology Expense,4,Technology,66122.66,Approved
+BUD0000304,2025-10-01,5400,Interest Expense,2,Finance,118074.81,Approved
+BUD0000305,2025-10-01,5500,Credit Loss Expense,2,Finance,87491.69,Approved
+BUD0000306,2025-10-01,5600,General and Administrative Expense,2,Finance,45797.9,Approved
+BUD0000307,2025-11-01,4000,Interest Income,2,Finance,974251.9,Approved
+BUD0000308,2025-11-01,4100,Fee and Service Income,1,Sales,232889.89,Approved
+BUD0000309,2025-11-01,5000,Salaries Expense,2,Finance,346640.43,Approved
+BUD0000310,2025-11-01,5100,Rent Expense,3,Operations,87427.5,Approved
+BUD0000311,2025-11-01,5200,Marketing Expense,5,Marketing,62223.16,Approved
+BUD0000312,2025-11-01,5300,Technology Expense,4,Technology,64133.28,Approved
+BUD0000313,2025-11-01,5400,Interest Expense,2,Finance,115443.72,Approved
+BUD0000314,2025-11-01,5500,Credit Loss Expense,2,Finance,89966.25,Approved
+BUD0000315,2025-11-01,5600,General and Administrative Expense,2,Finance,48885.74,Approved
+BUD0000316,2025-12-01,4000,Interest Income,2,Finance,1017344.62,Approved
+BUD0000317,2025-12-01,4100,Fee and Service Income,1,Sales,255680.02,Approved
+BUD0000318,2025-12-01,5000,Salaries Expense,2,Finance,345750.74,Approved
+BUD0000319,2025-12-01,5100,Rent Expense,3,Operations,81710.68,Approved
+BUD0000320,2025-12-01,5200,Marketing Expense,5,Marketing,59946.25,Approved
+BUD0000321,2025-12-01,5300,Technology Expense,4,Technology,68514.28,Approved
+BUD0000322,2025-12-01,5400,Interest Expense,2,Finance,125579.81,Approved
+BUD0000323,2025-12-01,5500,Credit Loss Expense,2,Finance,87837.27,Approved
+BUD0000324,2025-12-01,5600,General and Administrative Expense,2,Finance,47125.03,Approved

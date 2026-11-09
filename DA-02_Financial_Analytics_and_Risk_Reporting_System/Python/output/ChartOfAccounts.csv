@@ -1,0 +1,21 @@
+AccountID,AccountName,AccountType,FinancialStatement,NormalBalance
+1000,Cash,Asset,Balance Sheet,Debit
+1100,Accounts Receivable,Asset,Balance Sheet,Debit
+1300,Equipment,Asset,Balance Sheet,Debit
+1400,Loans Receivable,Asset,Balance Sheet,Debit
+1500,Interest Receivable,Asset,Balance Sheet,Debit
+2000,Accounts Payable,Liability,Balance Sheet,Credit
+2100,Bank Borrowings,Liability,Balance Sheet,Credit
+2300,Loan Loss Allowance,Contra Asset,Balance Sheet,Credit
+3000,Share Capital,Equity,Balance Sheet,Credit
+3100,Retained Earnings,Equity,Balance Sheet,Credit
+4000,Interest Income,Revenue,P&L,Credit
+4100,Fee and Service Income,Revenue,P&L,Credit
+4200,Other Operating Income,Revenue,P&L,Credit
+5000,Salaries Expense,Expense,P&L,Debit
+5100,Rent Expense,Expense,P&L,Debit
+5200,Marketing Expense,Expense,P&L,Debit
+5300,Technology Expense,Expense,P&L,Debit
+5400,Interest Expense,Expense,P&L,Debit
+5500,Credit Loss Expense,Expense,P&L,Debit
+5600,General and Administrative Expense,Expense,P&L,Debit
